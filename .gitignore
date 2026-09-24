@@ -1,5 +1,4 @@
 # API keys
-.env
 # Checkpoints and embedding stores (download from HF)
 checkpoints/
 data/
@@ -18,3 +17,5 @@ logs/*.log
 examples/t_rex/data/
 examples/t_rex/cache/
 examples/t_rex/artifacts/
+config.bat
+node_modules
